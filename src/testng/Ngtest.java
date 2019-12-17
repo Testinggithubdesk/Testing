@@ -11,6 +11,7 @@ public class Ngtest {
 	String driverPath = "D:Driver\\chromedriver.exe";		
 	public WebDriver driver ;
 	
+	
     public String baseUrl = "http://demo.guru99.com/test/newtours/";
     public String expected = null;
     public String actual = null;
